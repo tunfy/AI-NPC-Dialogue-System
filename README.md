@@ -22,7 +22,7 @@ The project simulates intelligent game NPCs with unique personalities, persisten
 
 <p align="center">
 
-**? Insert Screenshot Here**
+<img src="docs/unity.png" width="900"/>
 
 </p>
 
@@ -32,7 +32,7 @@ The project simulates intelligent game NPCs with unique personalities, persisten
 
 <p align="center">
 
-**? Insert Screenshot Here**
+<img src="docs/chat_ui.png" width="900"/>
 
 </p>
 
@@ -42,7 +42,7 @@ The project simulates intelligent game NPCs with unique personalities, persisten
 
 <p align="center">
 
-**? Insert Screenshot Here**
+<img src="docs/favorability.png" width="900"/>
 
 </p>
 
@@ -52,7 +52,7 @@ The project simulates intelligent game NPCs with unique personalities, persisten
 
 <p align="center">
 
-**? Insert Screenshot Here**
+<img src="docs/database.png" width="900"/>
 
 </p>
 
