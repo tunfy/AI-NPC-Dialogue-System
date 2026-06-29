@@ -142,23 +142,16 @@ flowchart TD
 
 # Project Structure
 
-```text
-AI-NPC-Dialogue-System
-|
-©À©¤©¤ AI_NPC_Client
-|   ©À©¤©¤ Assets
-|   ©À©¤©¤ Packages
-|   ©¸©¤©¤ ProjectSettings
-|
-©À©¤©¤ backend
-|   ©À©¤©¤ main.py
-|   ©À©¤©¤ database.py
-|   ©À©¤©¤ requirements.txt
-|   ©À©¤©¤ npc_memory.db
-|   ©À©¤©¤ .env
-|
-©¸©¤©¤ README.md
-```
+| Folder | Description |
+|---------|-------------|
+| AI_NPC_Client | Unity game client |
+| backend | FastAPI backend server |
+| Assets | Unity assets and scripts |
+| main.py | FastAPI entry point |
+| database.py | SQLite database operations |
+| npc_memory.db | Persistent NPC memory |
+| requirements.txt | Python dependencies |
+| README.md | Project documentation |
 
 ---
 
