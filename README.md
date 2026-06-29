@@ -144,19 +144,19 @@ flowchart TD
 
 ```text
 AI-NPC-Dialogue-System
-©¦
+|
 ©À©¤©¤ AI_NPC_Client
-©¦   ©À©¤©¤ Assets
-©¦   ©À©¤©¤ Packages
-©¦   ©¸©¤©¤ ProjectSettings
-©¦
+|   ©À©¤©¤ Assets
+|   ©À©¤©¤ Packages
+|   ©¸©¤©¤ ProjectSettings
+|
 ©À©¤©¤ backend
-©¦   ©À©¤©¤ main.py
-©¦   ©À©¤©¤ database.py
-©¦   ©À©¤©¤ requirements.txt
-©¦   ©À©¤©¤ npc_memory.db
-©¦   ©¸©¤©¤ .env
-©¦
+|   ©À©¤©¤ main.py
+|   ©À©¤©¤ database.py
+|   ©À©¤©¤ requirements.txt
+|   ©À©¤©¤ npc_memory.db
+|   ©À©¤©¤ .env
+|
 ©¸©¤©¤ README.md
 ```
 
